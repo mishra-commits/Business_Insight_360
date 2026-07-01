@@ -8,7 +8,7 @@ To surpass competitors and enable data-driven decision-making, the company has d
 
 I worked on this project by following the Codebasics PowerBi Course,
 
-Explore the live dashboard : [View Here]()
+Explore the live dashboard : [View Here](https://app.powerbi.com/view?r=eyJrIjoiNjc3YzA1ZDEtNThjYS00NDQyLTk3YmYtMWZiMGRlM2QwOTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # Datasets:
